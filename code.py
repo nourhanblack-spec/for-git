@@ -1,4 +1,4 @@
 name="Nourhan Malik"
-age=24
+age=30
 city="Cairo"
 print(name)
