@@ -6,3 +6,4 @@ class Book:
     def get_info(self):
         return f"{self.title} by {self.author}"
 # my V11
+# My V12
