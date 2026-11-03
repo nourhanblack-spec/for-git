@@ -1,6 +1,6 @@
 import os
 import time
-# wait for another update 
+# wait for another update V2
 
 def clean():
     os.system('cls' if os.name == 'nt' else 'clear')
